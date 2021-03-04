@@ -1,0 +1,5 @@
+print(str(50))
+print(float(-42.00001))
+print(complex(-32.1+1j))
+print(bool(True))
+print(bytes(b'IG-88'))
